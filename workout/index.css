@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: cornsilk;
+
+}
+div{
+    height: 100px;
+    width: 320px;
+    border: 1px solid grey;
+    background-color: cadetblue;
+   
+
+}
+
+.one{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+}
